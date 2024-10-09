@@ -1,1 +1,2 @@
- project ini hanya sebagai bahan latihan dan sebuah pengumpulan tugas 
+# project list
+// code di buat menggunakan fluttter dengan bahasa dart 
